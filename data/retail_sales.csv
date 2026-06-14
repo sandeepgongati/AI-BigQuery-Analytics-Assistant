@@ -1,0 +1,501 @@
+order_id,city,product,quantity,revenue,order_date
+1,Seattle,Phone,7,5600,2025-03-22
+2,Boston,Tablet,8,4800,2025-05-25
+3,New York,Laptop,1,1200,2025-04-06
+4,Seattle,Tablet,7,4200,2025-01-16
+5,Miami,Tablet,3,1800,2025-02-19
+6,Chicago,Laptop,9,10800,2025-02-01
+7,New York,Mouse,3,120,2025-03-23
+8,Seattle,Keyboard,8,640,2025-03-03
+9,San Francisco,Mouse,6,240,2025-02-20
+10,San Francisco,Tablet,4,2400,2025-04-07
+11,Miami,Mouse,10,400,2025-06-28
+12,Miami,Phone,4,3200,2025-01-18
+13,San Francisco,Tablet,5,3000,2025-06-26
+14,Boston,Monitor,2,500,2025-02-01
+15,Chicago,Keyboard,3,240,2025-04-09
+16,Boston,Phone,5,4000,2025-02-20
+17,Boston,Mouse,2,80,2025-02-04
+18,San Francisco,Monitor,10,2500,2025-01-05
+19,Chicago,Tablet,9,5400,2025-05-04
+20,Chicago,Laptop,4,4800,2025-01-09
+21,Boston,Phone,4,3200,2025-01-16
+22,Seattle,Tablet,9,5400,2025-05-29
+23,Miami,Phone,8,6400,2025-04-09
+24,Dallas,Tablet,9,5400,2025-04-15
+25,New York,Keyboard,7,560,2025-03-04
+26,Seattle,Tablet,7,4200,2025-03-27
+27,New York,Monitor,2,500,2025-01-08
+28,Seattle,Monitor,4,1000,2025-02-07
+29,Boston,Laptop,9,10800,2025-01-28
+30,Seattle,Monitor,4,1000,2025-02-02
+31,Miami,Keyboard,5,400,2025-06-19
+32,Miami,Mouse,10,400,2025-05-03
+33,Boston,Keyboard,8,640,2025-05-23
+34,Chicago,Monitor,7,1750,2025-03-25
+35,Miami,Laptop,9,10800,2025-02-13
+36,Miami,Mouse,1,40,2025-06-05
+37,Miami,Keyboard,3,240,2025-05-16
+38,New York,Mouse,7,280,2025-02-23
+39,Dallas,Laptop,6,7200,2025-04-18
+40,Chicago,Tablet,6,3600,2025-03-25
+41,Seattle,Mouse,9,360,2025-02-05
+42,Chicago,Laptop,3,3600,2025-05-05
+43,New York,Phone,4,3200,2025-04-13
+44,Boston,Tablet,8,4800,2025-02-03
+45,Dallas,Mouse,1,40,2025-04-03
+46,Chicago,Mouse,4,160,2025-03-09
+47,Chicago,Laptop,6,7200,2025-05-12
+48,San Francisco,Mouse,2,80,2025-04-30
+49,Seattle,Tablet,6,3600,2025-06-20
+50,Seattle,Laptop,1,1200,2025-03-09
+51,New York,Monitor,9,2250,2025-01-30
+52,New York,Keyboard,3,240,2025-01-14
+53,Chicago,Tablet,5,3000,2025-04-11
+54,New York,Phone,10,8000,2025-02-08
+55,Chicago,Phone,4,3200,2025-04-02
+56,San Francisco,Phone,2,1600,2025-02-22
+57,San Francisco,Mouse,3,120,2025-02-15
+58,Dallas,Monitor,10,2500,2025-04-17
+59,New York,Mouse,6,240,2025-03-09
+60,San Francisco,Keyboard,10,800,2025-01-01
+61,New York,Monitor,9,2250,2025-04-03
+62,San Francisco,Tablet,7,4200,2025-02-18
+63,Chicago,Mouse,5,200,2025-06-20
+64,Chicago,Laptop,10,12000,2025-05-01
+65,Chicago,Keyboard,1,80,2025-04-15
+66,Miami,Mouse,5,200,2025-01-10
+67,San Francisco,Laptop,2,2400,2025-04-29
+68,Dallas,Phone,3,2400,2025-06-07
+69,Dallas,Phone,4,3200,2025-04-06
+70,New York,Tablet,1,600,2025-01-30
+71,Dallas,Phone,10,8000,2025-02-04
+72,San Francisco,Tablet,7,4200,2025-02-09
+73,Chicago,Mouse,8,320,2025-03-15
+74,New York,Tablet,4,2400,2025-06-04
+75,Chicago,Monitor,7,1750,2025-03-12
+76,Chicago,Keyboard,1,80,2025-05-20
+77,New York,Mouse,9,360,2025-06-20
+78,Boston,Mouse,6,240,2025-02-07
+79,New York,Keyboard,7,560,2025-02-19
+80,Seattle,Mouse,10,400,2025-04-04
+81,New York,Laptop,7,8400,2025-01-25
+82,Boston,Keyboard,4,320,2025-06-12
+83,Chicago,Mouse,5,200,2025-01-11
+84,New York,Phone,1,800,2025-02-08
+85,Chicago,Laptop,1,1200,2025-04-06
+86,Boston,Laptop,9,10800,2025-05-28
+87,Miami,Keyboard,4,320,2025-01-19
+88,Chicago,Tablet,9,5400,2025-06-02
+89,Dallas,Keyboard,3,240,2025-04-13
+90,Seattle,Phone,1,800,2025-05-21
+91,San Francisco,Keyboard,5,400,2025-04-27
+92,New York,Monitor,8,2000,2025-04-16
+93,San Francisco,Monitor,8,2000,2025-03-25
+94,San Francisco,Tablet,9,5400,2025-01-10
+95,New York,Tablet,4,2400,2025-05-28
+96,Boston,Tablet,4,2400,2025-06-16
+97,Boston,Laptop,1,1200,2025-01-12
+98,San Francisco,Monitor,8,2000,2025-06-11
+99,Seattle,Mouse,8,320,2025-06-24
+100,Boston,Phone,7,5600,2025-03-12
+101,Chicago,Keyboard,2,160,2025-05-11
+102,San Francisco,Mouse,1,40,2025-04-22
+103,Boston,Phone,5,4000,2025-04-08
+104,Seattle,Tablet,6,3600,2025-01-26
+105,Seattle,Phone,1,800,2025-03-15
+106,New York,Phone,6,4800,2025-06-24
+107,New York,Phone,9,7200,2025-01-17
+108,San Francisco,Laptop,8,9600,2025-05-25
+109,Seattle,Tablet,10,6000,2025-04-24
+110,Boston,Tablet,5,3000,2025-02-17
+111,Chicago,Laptop,2,2400,2025-02-25
+112,San Francisco,Mouse,4,160,2025-06-25
+113,Boston,Keyboard,7,560,2025-04-13
+114,Dallas,Phone,5,4000,2025-06-24
+115,New York,Phone,3,2400,2025-03-27
+116,San Francisco,Tablet,3,1800,2025-01-27
+117,Chicago,Mouse,9,360,2025-01-03
+118,Miami,Tablet,5,3000,2025-05-28
+119,Boston,Tablet,7,4200,2025-04-06
+120,San Francisco,Phone,1,800,2025-01-02
+121,San Francisco,Monitor,3,750,2025-03-13
+122,San Francisco,Phone,5,4000,2025-01-03
+123,Seattle,Laptop,3,3600,2025-02-09
+124,New York,Laptop,9,10800,2025-04-28
+125,Seattle,Mouse,2,80,2025-01-29
+126,Boston,Mouse,8,320,2025-03-21
+127,San Francisco,Tablet,6,3600,2025-03-31
+128,Seattle,Keyboard,7,560,2025-04-03
+129,Dallas,Mouse,3,120,2025-01-05
+130,New York,Phone,4,3200,2025-03-18
+131,Dallas,Laptop,3,3600,2025-02-01
+132,Dallas,Keyboard,8,640,2025-02-16
+133,Seattle,Mouse,1,40,2025-04-04
+134,Boston,Keyboard,7,560,2025-02-17
+135,Miami,Monitor,8,2000,2025-04-09
+136,Boston,Mouse,7,280,2025-01-15
+137,Dallas,Mouse,4,160,2025-05-25
+138,Dallas,Mouse,2,80,2025-02-01
+139,San Francisco,Monitor,7,1750,2025-04-24
+140,Seattle,Monitor,4,1000,2025-01-19
+141,Seattle,Tablet,3,1800,2025-04-05
+142,Seattle,Tablet,10,6000,2025-01-15
+143,Seattle,Laptop,3,3600,2025-04-15
+144,Seattle,Tablet,2,1200,2025-04-01
+145,New York,Tablet,1,600,2025-02-04
+146,Dallas,Keyboard,3,240,2025-02-17
+147,Dallas,Keyboard,9,720,2025-01-30
+148,Dallas,Mouse,10,400,2025-03-27
+149,Seattle,Keyboard,9,720,2025-05-06
+150,New York,Tablet,3,1800,2025-03-20
+151,Dallas,Keyboard,9,720,2025-05-01
+152,Seattle,Phone,2,1600,2025-01-28
+153,Dallas,Mouse,6,240,2025-05-25
+154,Seattle,Mouse,3,120,2025-02-19
+155,Seattle,Mouse,2,80,2025-03-21
+156,Miami,Keyboard,10,800,2025-04-10
+157,Miami,Laptop,4,4800,2025-04-28
+158,Dallas,Keyboard,7,560,2025-01-10
+159,New York,Mouse,9,360,2025-05-21
+160,San Francisco,Phone,7,5600,2025-02-19
+161,San Francisco,Phone,6,4800,2025-01-31
+162,San Francisco,Keyboard,5,400,2025-01-12
+163,New York,Tablet,7,4200,2025-03-29
+164,San Francisco,Mouse,2,80,2025-04-08
+165,Seattle,Keyboard,2,160,2025-01-15
+166,San Francisco,Mouse,9,360,2025-05-03
+167,Dallas,Laptop,9,10800,2025-01-16
+168,Seattle,Laptop,7,8400,2025-04-24
+169,Boston,Tablet,3,1800,2025-02-22
+170,Miami,Mouse,6,240,2025-01-12
+171,Dallas,Keyboard,1,80,2025-01-09
+172,Chicago,Phone,2,1600,2025-02-23
+173,Miami,Laptop,8,9600,2025-02-24
+174,Boston,Phone,9,7200,2025-04-30
+175,Dallas,Keyboard,10,800,2025-06-07
+176,Dallas,Tablet,3,1800,2025-04-18
+177,Miami,Monitor,2,500,2025-06-10
+178,Boston,Laptop,6,7200,2025-04-01
+179,Dallas,Mouse,8,320,2025-02-12
+180,Chicago,Laptop,10,12000,2025-03-19
+181,Chicago,Laptop,3,3600,2025-02-12
+182,Miami,Monitor,10,2500,2025-05-15
+183,Seattle,Phone,9,7200,2025-03-02
+184,Dallas,Keyboard,1,80,2025-05-04
+185,New York,Phone,10,8000,2025-01-11
+186,Seattle,Mouse,3,120,2025-04-11
+187,Seattle,Phone,2,1600,2025-06-21
+188,Chicago,Laptop,9,10800,2025-03-15
+189,Chicago,Laptop,1,1200,2025-06-14
+190,Seattle,Monitor,4,1000,2025-03-17
+191,Dallas,Mouse,6,240,2025-03-13
+192,Miami,Tablet,5,3000,2025-05-11
+193,New York,Keyboard,7,560,2025-02-12
+194,Boston,Keyboard,8,640,2025-03-09
+195,Miami,Mouse,2,80,2025-03-19
+196,New York,Laptop,9,10800,2025-04-11
+197,San Francisco,Phone,4,3200,2025-04-30
+198,Dallas,Tablet,5,3000,2025-02-15
+199,Miami,Monitor,8,2000,2025-04-08
+200,Chicago,Mouse,7,280,2025-04-17
+201,Chicago,Mouse,3,120,2025-04-25
+202,New York,Monitor,4,1000,2025-01-22
+203,San Francisco,Keyboard,8,640,2025-02-21
+204,New York,Mouse,10,400,2025-05-11
+205,New York,Laptop,5,6000,2025-02-02
+206,Dallas,Monitor,7,1750,2025-04-19
+207,Dallas,Laptop,2,2400,2025-05-01
+208,San Francisco,Tablet,3,1800,2025-02-25
+209,Chicago,Keyboard,6,480,2025-04-04
+210,Miami,Keyboard,8,640,2025-01-07
+211,Chicago,Mouse,8,320,2025-06-11
+212,Boston,Laptop,10,12000,2025-06-12
+213,New York,Monitor,4,1000,2025-01-17
+214,Miami,Keyboard,4,320,2025-06-15
+215,San Francisco,Tablet,4,2400,2025-05-01
+216,San Francisco,Tablet,8,4800,2025-03-10
+217,Miami,Phone,10,8000,2025-03-21
+218,New York,Mouse,4,160,2025-04-20
+219,Miami,Tablet,6,3600,2025-06-14
+220,Miami,Monitor,5,1250,2025-06-27
+221,New York,Laptop,9,10800,2025-06-24
+222,Seattle,Laptop,8,9600,2025-03-07
+223,San Francisco,Tablet,7,4200,2025-04-21
+224,New York,Keyboard,1,80,2025-06-23
+225,Seattle,Tablet,9,5400,2025-06-13
+226,Boston,Keyboard,8,640,2025-04-29
+227,New York,Tablet,2,1200,2025-05-28
+228,Seattle,Tablet,3,1800,2025-04-25
+229,Chicago,Laptop,9,10800,2025-03-20
+230,Chicago,Mouse,9,360,2025-04-16
+231,Seattle,Monitor,4,1000,2025-06-14
+232,New York,Tablet,4,2400,2025-04-14
+233,Dallas,Tablet,2,1200,2025-04-23
+234,San Francisco,Laptop,3,3600,2025-05-14
+235,San Francisco,Keyboard,6,480,2025-06-06
+236,New York,Laptop,3,3600,2025-06-09
+237,Chicago,Phone,4,3200,2025-03-13
+238,Chicago,Keyboard,7,560,2025-06-17
+239,Boston,Tablet,2,1200,2025-02-14
+240,Miami,Monitor,5,1250,2025-06-09
+241,Seattle,Tablet,8,4800,2025-02-15
+242,New York,Tablet,9,5400,2025-06-24
+243,Seattle,Laptop,7,8400,2025-01-26
+244,Boston,Monitor,4,1000,2025-05-05
+245,Chicago,Tablet,1,600,2025-06-19
+246,Miami,Phone,9,7200,2025-04-01
+247,New York,Monitor,10,2500,2025-04-14
+248,New York,Monitor,5,1250,2025-05-14
+249,Miami,Mouse,10,400,2025-03-19
+250,Chicago,Monitor,8,2000,2025-06-16
+251,New York,Phone,1,800,2025-01-01
+252,Boston,Monitor,4,1000,2025-06-16
+253,New York,Monitor,1,250,2025-01-11
+254,Miami,Mouse,6,240,2025-06-17
+255,Seattle,Laptop,6,7200,2025-03-05
+256,New York,Laptop,9,10800,2025-06-25
+257,Seattle,Mouse,5,200,2025-01-09
+258,Chicago,Laptop,10,12000,2025-04-22
+259,Chicago,Mouse,8,320,2025-05-14
+260,Seattle,Monitor,5,1250,2025-06-05
+261,New York,Tablet,9,5400,2025-04-16
+262,Dallas,Tablet,1,600,2025-02-12
+263,New York,Phone,1,800,2025-01-25
+264,Miami,Keyboard,10,800,2025-03-31
+265,San Francisco,Phone,5,4000,2025-01-08
+266,Miami,Monitor,2,500,2025-04-12
+267,Seattle,Monitor,5,1250,2025-05-03
+268,Chicago,Laptop,7,8400,2025-01-18
+269,New York,Monitor,1,250,2025-01-20
+270,Chicago,Monitor,8,2000,2025-01-29
+271,Chicago,Monitor,10,2500,2025-01-21
+272,Boston,Tablet,6,3600,2025-05-01
+273,New York,Monitor,5,1250,2025-03-30
+274,Miami,Tablet,1,600,2025-05-03
+275,Boston,Tablet,4,2400,2025-02-07
+276,Boston,Phone,10,8000,2025-06-27
+277,Chicago,Tablet,8,4800,2025-06-29
+278,New York,Phone,9,7200,2025-03-01
+279,Chicago,Keyboard,7,560,2025-01-31
+280,Dallas,Tablet,1,600,2025-04-09
+281,Seattle,Tablet,10,6000,2025-01-01
+282,San Francisco,Monitor,3,750,2025-02-22
+283,Boston,Keyboard,5,400,2025-03-28
+284,Miami,Monitor,7,1750,2025-03-31
+285,Chicago,Mouse,1,40,2025-01-11
+286,Miami,Mouse,1,40,2025-02-18
+287,Seattle,Keyboard,4,320,2025-02-23
+288,Chicago,Phone,2,1600,2025-06-28
+289,San Francisco,Monitor,5,1250,2025-03-21
+290,Dallas,Laptop,3,3600,2025-02-27
+291,Dallas,Laptop,4,4800,2025-01-22
+292,San Francisco,Tablet,1,600,2025-03-06
+293,San Francisco,Keyboard,5,400,2025-02-21
+294,Seattle,Mouse,3,120,2025-06-23
+295,New York,Tablet,5,3000,2025-02-17
+296,New York,Phone,6,4800,2025-02-19
+297,Dallas,Keyboard,6,480,2025-01-10
+298,Boston,Phone,3,2400,2025-06-21
+299,Miami,Phone,8,6400,2025-05-26
+300,Miami,Keyboard,8,640,2025-06-15
+301,Dallas,Keyboard,1,80,2025-04-22
+302,Dallas,Phone,4,3200,2025-01-27
+303,Dallas,Mouse,8,320,2025-03-11
+304,Dallas,Tablet,1,600,2025-02-09
+305,Seattle,Phone,4,3200,2025-03-27
+306,Miami,Monitor,2,500,2025-04-03
+307,New York,Monitor,1,250,2025-05-13
+308,Miami,Mouse,2,80,2025-01-31
+309,Seattle,Laptop,10,12000,2025-03-29
+310,San Francisco,Keyboard,3,240,2025-04-14
+311,Dallas,Keyboard,3,240,2025-06-23
+312,Chicago,Monitor,8,2000,2025-06-01
+313,Dallas,Mouse,10,400,2025-06-19
+314,Dallas,Keyboard,6,480,2025-06-10
+315,Boston,Laptop,5,6000,2025-02-20
+316,New York,Tablet,3,1800,2025-05-27
+317,Seattle,Mouse,1,40,2025-01-06
+318,New York,Tablet,2,1200,2025-05-19
+319,Chicago,Monitor,6,1500,2025-06-21
+320,New York,Monitor,5,1250,2025-02-21
+321,Dallas,Laptop,5,6000,2025-06-25
+322,Seattle,Tablet,4,2400,2025-05-19
+323,Chicago,Monitor,3,750,2025-01-13
+324,Boston,Mouse,1,40,2025-02-20
+325,Dallas,Laptop,10,12000,2025-06-30
+326,Dallas,Keyboard,7,560,2025-05-20
+327,Miami,Mouse,3,120,2025-05-23
+328,Miami,Tablet,8,4800,2025-03-20
+329,Boston,Monitor,2,500,2025-01-13
+330,Dallas,Phone,7,5600,2025-05-02
+331,Seattle,Keyboard,3,240,2025-06-27
+332,Boston,Phone,4,3200,2025-04-01
+333,Boston,Keyboard,5,400,2025-01-19
+334,Dallas,Phone,4,3200,2025-03-28
+335,Dallas,Keyboard,8,640,2025-02-15
+336,San Francisco,Keyboard,7,560,2025-06-30
+337,Chicago,Tablet,2,1200,2025-01-20
+338,Dallas,Tablet,2,1200,2025-02-22
+339,Seattle,Phone,7,5600,2025-01-02
+340,Seattle,Laptop,5,6000,2025-04-08
+341,Seattle,Mouse,7,280,2025-04-02
+342,San Francisco,Mouse,7,280,2025-06-21
+343,Seattle,Mouse,1,40,2025-05-12
+344,New York,Phone,6,4800,2025-01-27
+345,Chicago,Laptop,4,4800,2025-04-18
+346,Dallas,Monitor,9,2250,2025-01-27
+347,Miami,Monitor,6,1500,2025-03-19
+348,Chicago,Laptop,7,8400,2025-04-22
+349,Boston,Monitor,5,1250,2025-02-03
+350,Dallas,Mouse,1,40,2025-03-15
+351,New York,Keyboard,7,560,2025-01-17
+352,San Francisco,Phone,5,4000,2025-06-25
+353,New York,Laptop,6,7200,2025-05-11
+354,Chicago,Tablet,9,5400,2025-04-12
+355,Seattle,Mouse,7,280,2025-01-02
+356,Seattle,Laptop,7,8400,2025-05-11
+357,New York,Monitor,1,250,2025-02-25
+358,Boston,Mouse,2,80,2025-02-19
+359,New York,Mouse,8,320,2025-02-24
+360,Miami,Tablet,8,4800,2025-05-22
+361,Boston,Keyboard,1,80,2025-03-13
+362,New York,Phone,6,4800,2025-02-20
+363,Dallas,Phone,8,6400,2025-01-07
+364,Boston,Keyboard,6,480,2025-05-26
+365,New York,Monitor,1,250,2025-03-22
+366,New York,Monitor,4,1000,2025-01-04
+367,Seattle,Keyboard,5,400,2025-05-23
+368,Boston,Monitor,10,2500,2025-01-03
+369,Miami,Tablet,6,3600,2025-04-03
+370,Miami,Monitor,4,1000,2025-02-07
+371,Boston,Laptop,6,7200,2025-05-24
+372,Seattle,Phone,10,8000,2025-06-19
+373,Dallas,Tablet,6,3600,2025-04-13
+374,Chicago,Mouse,4,160,2025-06-09
+375,Dallas,Monitor,9,2250,2025-05-06
+376,Dallas,Tablet,1,600,2025-05-05
+377,Chicago,Tablet,8,4800,2025-06-23
+378,Chicago,Tablet,3,1800,2025-04-13
+379,Miami,Keyboard,10,800,2025-06-14
+380,Dallas,Phone,6,4800,2025-02-25
+381,New York,Tablet,5,3000,2025-02-16
+382,Miami,Tablet,8,4800,2025-02-23
+383,Miami,Mouse,3,120,2025-01-12
+384,New York,Mouse,4,160,2025-05-29
+385,New York,Mouse,1,40,2025-05-13
+386,Miami,Phone,1,800,2025-05-05
+387,San Francisco,Mouse,3,120,2025-02-19
+388,Boston,Monitor,5,1250,2025-02-18
+389,Boston,Mouse,1,40,2025-06-30
+390,Dallas,Tablet,1,600,2025-04-09
+391,Chicago,Laptop,10,12000,2025-02-17
+392,San Francisco,Keyboard,9,720,2025-04-03
+393,Boston,Phone,2,1600,2025-05-25
+394,Chicago,Phone,5,4000,2025-01-24
+395,Miami,Monitor,5,1250,2025-01-13
+396,Miami,Tablet,4,2400,2025-06-16
+397,San Francisco,Tablet,6,3600,2025-01-05
+398,Chicago,Tablet,2,1200,2025-05-22
+399,Boston,Tablet,3,1800,2025-06-07
+400,Chicago,Phone,2,1600,2025-05-25
+401,Boston,Keyboard,8,640,2025-04-08
+402,Dallas,Keyboard,1,80,2025-02-09
+403,Boston,Keyboard,9,720,2025-02-17
+404,Boston,Laptop,2,2400,2025-01-31
+405,San Francisco,Laptop,8,9600,2025-04-07
+406,Boston,Mouse,3,120,2025-02-07
+407,Boston,Keyboard,1,80,2025-01-30
+408,Chicago,Phone,8,6400,2025-05-25
+409,Boston,Laptop,4,4800,2025-04-15
+410,Seattle,Tablet,7,4200,2025-03-28
+411,Boston,Monitor,4,1000,2025-03-13
+412,New York,Tablet,8,4800,2025-06-23
+413,Miami,Keyboard,4,320,2025-04-21
+414,Dallas,Monitor,2,500,2025-03-30
+415,San Francisco,Keyboard,9,720,2025-02-24
+416,Seattle,Phone,7,5600,2025-03-27
+417,Seattle,Tablet,10,6000,2025-04-21
+418,Dallas,Phone,1,800,2025-06-28
+419,Seattle,Keyboard,6,480,2025-03-10
+420,New York,Phone,3,2400,2025-02-08
+421,San Francisco,Tablet,7,4200,2025-03-29
+422,San Francisco,Tablet,3,1800,2025-02-06
+423,San Francisco,Keyboard,3,240,2025-04-12
+424,Chicago,Tablet,9,5400,2025-04-06
+425,San Francisco,Monitor,8,2000,2025-03-11
+426,Chicago,Monitor,8,2000,2025-05-28
+427,Boston,Phone,4,3200,2025-05-27
+428,Miami,Monitor,1,250,2025-04-17
+429,Miami,Tablet,5,3000,2025-03-16
+430,Dallas,Laptop,5,6000,2025-06-03
+431,New York,Tablet,6,3600,2025-06-01
+432,Seattle,Phone,1,800,2025-06-22
+433,Miami,Keyboard,5,400,2025-06-05
+434,San Francisco,Laptop,4,4800,2025-06-10
+435,San Francisco,Mouse,7,280,2025-02-16
+436,Seattle,Phone,4,3200,2025-03-12
+437,Miami,Keyboard,2,160,2025-01-02
+438,New York,Mouse,3,120,2025-04-23
+439,Miami,Phone,5,4000,2025-03-16
+440,Seattle,Laptop,3,3600,2025-03-19
+441,Miami,Keyboard,2,160,2025-04-24
+442,Seattle,Tablet,2,1200,2025-04-18
+443,Seattle,Phone,2,1600,2025-05-12
+444,New York,Phone,1,800,2025-06-09
+445,San Francisco,Monitor,7,1750,2025-03-23
+446,New York,Laptop,7,8400,2025-03-12
+447,Dallas,Laptop,7,8400,2025-01-20
+448,San Francisco,Phone,4,3200,2025-05-14
+449,San Francisco,Monitor,2,500,2025-01-16
+450,New York,Keyboard,10,800,2025-01-05
+451,New York,Laptop,6,7200,2025-02-07
+452,Miami,Tablet,2,1200,2025-01-18
+453,Seattle,Tablet,7,4200,2025-05-26
+454,New York,Monitor,5,1250,2025-02-27
+455,Boston,Tablet,4,2400,2025-04-07
+456,San Francisco,Mouse,9,360,2025-02-05
+457,Boston,Keyboard,4,320,2025-03-23
+458,San Francisco,Laptop,9,10800,2025-04-09
+459,Chicago,Tablet,7,4200,2025-05-24
+460,Boston,Tablet,5,3000,2025-02-17
+461,New York,Laptop,6,7200,2025-02-01
+462,Miami,Phone,5,4000,2025-01-01
+463,San Francisco,Monitor,6,1500,2025-01-27
+464,Miami,Tablet,7,4200,2025-01-20
+465,New York,Laptop,2,2400,2025-04-17
+466,San Francisco,Laptop,5,6000,2025-05-04
+467,New York,Laptop,9,10800,2025-05-28
+468,Boston,Monitor,1,250,2025-03-06
+469,Seattle,Monitor,4,1000,2025-06-04
+470,Chicago,Laptop,5,6000,2025-06-26
+471,Boston,Phone,9,7200,2025-04-03
+472,Seattle,Keyboard,6,480,2025-01-27
+473,Chicago,Keyboard,8,640,2025-04-24
+474,Chicago,Monitor,1,250,2025-02-25
+475,San Francisco,Mouse,1,40,2025-02-23
+476,San Francisco,Keyboard,9,720,2025-02-19
+477,Chicago,Mouse,8,320,2025-04-07
+478,Dallas,Tablet,3,1800,2025-02-04
+479,San Francisco,Phone,4,3200,2025-06-05
+480,Chicago,Keyboard,4,320,2025-02-22
+481,New York,Tablet,10,6000,2025-05-14
+482,New York,Phone,1,800,2025-01-20
+483,Miami,Monitor,3,750,2025-02-17
+484,New York,Tablet,5,3000,2025-01-30
+485,New York,Mouse,9,360,2025-02-08
+486,Miami,Tablet,6,3600,2025-06-22
+487,New York,Monitor,2,500,2025-04-22
+488,Dallas,Keyboard,6,480,2025-03-25
+489,New York,Monitor,1,250,2025-01-13
+490,Seattle,Mouse,9,360,2025-06-28
+491,San Francisco,Tablet,3,1800,2025-01-21
+492,Boston,Phone,8,6400,2025-05-23
+493,Seattle,Phone,5,4000,2025-06-24
+494,Boston,Mouse,6,240,2025-02-03
+495,Dallas,Keyboard,6,480,2025-05-01
+496,Boston,Keyboard,3,240,2025-01-28
+497,Dallas,Laptop,9,10800,2025-02-02
+498,Boston,Phone,7,5600,2025-04-11
+499,New York,Monitor,6,1500,2025-02-03
+500,New York,Mouse,4,160,2025-04-22

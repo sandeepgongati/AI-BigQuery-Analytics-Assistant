@@ -1,0 +1,7 @@
+venv/
+.git/
+.env
+credentials/
+__pycache__/
+*.pyc
+test_*.py
